@@ -1,0 +1,11 @@
+<!ELEMENT gameData (header,gameImg,characters,footer)>
+<!ELEMENT header EMPTY>
+<!ELEMENT gameImg (#PCDATA)>
+<!ELEMENT characters (character+)>
+<!ELEMENT character (name,health,damage,type)>
+<!ATTLIST character id NMTOKEN #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT health (#PCDATA)>
+<!ELEMENT damage (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT footer EMPTY>

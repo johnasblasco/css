@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file.css" type="text/css"?>
+
+<?xml-model href="data.dtd"?>
+<gameData>
+
+  <header></header>
+
+    <gameImg>https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Mobile_Legends_5v5_Logo_Fair_MOBA_for_Mobile.JPG/revision/latest?cb=20200819062413</gameImg>
+    <characters>
+
+      <character id="1">
+        <name>Fanny</name>
+        <health>100</health>
+        <damage>20</damage>
+        <type>Assasin</type>
+      </character>
+
+      <character id="2">
+        <name>Layla</name>
+        <health>50</health>
+        <damage>180</damage>
+        <type>Marksman</type>
+      </character>
+
+      <character id="3">
+        <name>Lancelot</name>
+        <health>80</health>
+        <damage>180</damage>
+        <type>Assasin</type>
+      </character>
+
+      <character id="4">
+        <name>Rafaela</name>
+        <health>200</health>
+        <damage>10</damage>
+        <type>Support</type>
+      </character>
+
+      <character id="5">
+        <name>Khufra</name>
+        <health>500</health>
+        <damage>10</damage>
+        <type>Tank</type>
+      </character>
+
+      <character id="6">
+        <name>Gusion</name>
+        <health>80</health>
+        <damage>150</damage>
+        <type>Assasin</type>
+      </character>
+
+      <character id="7">
+        <name>Kadita</name>
+        <health>60</health>
+        <damage>80</damage>
+        <type>Mage</type>
+      </character>
+
+      <character id="8">
+        <name>Thamuz</name>
+        <health>200</health>
+        <damage>30</damage>
+        <type>Fighter</type>
+      </character>
+
+      <character id="9">
+        <name>Miya</name>
+        <health>40</health>
+        <damage>100</damage>
+        <type>Marksman</type>
+      </character>
+
+      <character id="10">
+        <name>Novaria</name>
+        <health>40</health>
+        <damage>120</damage>
+        <type>Mage</type>
+      </character>
+
+    </characters>
+
+  <footer></footer>
+
+</gameData>
